@@ -5,11 +5,9 @@ import (
 	"io"
 	"net"
 
-	"github.com/thetinygoat/DictX/lru"
-
-	"github.com/thetinygoat/DictX/parser"
-
-	"github.com/thetinygoat/DictX/protocol"
+	"github.com/KenaBot/cache-server/lru"
+	"github.com/KenaBot/cache-server/parser"
+	"github.com/KenaBot/cache-server/protocol"
 )
 
 // Server provides core server functionality

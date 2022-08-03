@@ -5,7 +5,7 @@ import (
 	"log"
 	"time"
 
-	"github.com/allegro/bigcache/v3"
+	"github.com/KenaBot/cache-server/data/v3"
 )
 
 func Example() {

@@ -8,7 +8,7 @@ import (
 	"os"
 	"strconv"
 
-	"github.com/allegro/bigcache/v3"
+	"github.com/KenaBot/cache-server/data/v3"
 )
 
 const (

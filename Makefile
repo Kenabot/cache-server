@@ -1,3 +1,3 @@
 build:
-	go build -o bin/parabola-cli ./cmd/cli/
-	go build -o bin/parabola .
+	go build -o bin/cache-server-cli ./cmd/cli/
+	go build -o bin/cache-server .

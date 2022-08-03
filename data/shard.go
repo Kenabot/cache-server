@@ -5,7 +5,7 @@ import (
 	"sync"
 	"sync/atomic"
 
-	"github.com/allegro/bigcache/v3/queue"
+	"github.com/KenaBot/cache-server/data/v3/queue"
 )
 
 type onRemoveCallback func(wrappedEntry []byte, reason RemoveReason)

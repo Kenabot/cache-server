@@ -5,7 +5,7 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/thetinygoat/DictX/protocol"
+	"github.com/KenaBot/cache-server/protocol"
 )
 
 const (
